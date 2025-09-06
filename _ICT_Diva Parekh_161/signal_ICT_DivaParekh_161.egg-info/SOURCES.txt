@@ -1,0 +1,14 @@
+LICENCE
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+_ICT_DivaParekh_161/__init__.py
+_ICT_DivaParekh_161/operations.py
+_ICT_DivaParekh_161/trigonometric_signals.py
+_ICT_DivaParekh_161/unitary_signals.py
+signal_ICT_DivaParekh_161.egg-info/PKG-INFO
+signal_ICT_DivaParekh_161.egg-info/SOURCES.txt
+signal_ICT_DivaParekh_161.egg-info/dependency_links.txt
+signal_ICT_DivaParekh_161.egg-info/requires.txt
+signal_ICT_DivaParekh_161.egg-info/top_level.txt
